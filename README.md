@@ -16,6 +16,13 @@ target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absol
 
 
 ## Shields
-- <a href="https://absolum.nl"><img src="https://img.shields.io/badge/website-absolum.nl-lightgrey.svg" alt="Website"></a>
-- :clipboard: <a href="https://www.webfx.com/tools/emoji-cheat-sheet/" target="_blank"> Emoji cheatsheet</a>
-- 🎉 Open source
+
+### Social
+<a href="https://absolum.nl"><img src="https://img.shields.io/badge/website-absolum.nl-lightgrey.svg" alt="Website"></a>
+
+### Build
+<a href="https://github.com/absolum1"><img src="https://img.shields.io/badge/build-success-lightgrey.svg" alt="Build"></a>
+<a href="https://github.com/absolum1"><img src="https://img.shields.io/badge/build-failing-lightgrey.svg" alt="Build"></a>
+
+### License
+<a href="https://absolum.nl/mitlicense"><img src="https://img.shields.io/badge/license-MIT-lightgrey.svg" alt="License"></a>
