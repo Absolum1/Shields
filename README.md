@@ -20,7 +20,7 @@ target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absol
 ### Social
 <a href="https://absolum.nl"><img src="https://img.shields.io/badge/website-absolum.nl-lightgrey.svg" alt="Website"></a>
 
-<a href="https://absolum.nl"><img src="https://img.shields.io/github/followers/absolum1.svg?label=follow&style=social" alt="Follow"></a>
+<img src="https://img.shields.io/github/followers/absolum1.svg?label=follow&style=social" alt="Follow">
 
 
 ### Build
